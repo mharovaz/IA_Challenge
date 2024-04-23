@@ -71,7 +71,7 @@ def main():
 
     print(output_file)
 
-print("Fichero generado correctamente.")
+print("Fichero generado OK.")
 
 if __name__ == "__main__":
     main()
